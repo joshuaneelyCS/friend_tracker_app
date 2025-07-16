@@ -21,5 +21,7 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-![image alt](https://github.com/joshuaneelyCS/friend_tracker_app/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-07-13%20at%2010.21.38.png?raw=true)
-![image alt](https://github.com/joshuaneelyCS/friend_tracker_app/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-07-13%20at%2010.27.45.png?raw=true)
+<p float="left">
+  <img src="https://github.com/joshuaneelyCS/friend_tracker_app/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-07-13%20at%2010.21.38.png?raw=true" width="300"/>
+  <img src="https://github.com/joshuaneelyCS/friend_tracker_app/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-07-13%20at%2010.27.45.png?raw=true" width="300"/>
+</p>
