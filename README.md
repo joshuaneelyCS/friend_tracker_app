@@ -22,4 +22,4 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 ![image alt](https://github.com/joshuaneelyCS/friend_tracker_app/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-07-13%20at%2010.21.38.png?raw=true)
-
+![image alt](https://github.com/joshuaneelyCS/friend_tracker_app/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-07-13%20at%2010.27.45.png?raw=true)
